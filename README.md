@@ -24,7 +24,7 @@ I enjoy working with backend systems, REST APIs, MySQL databases and web applica
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanmamji)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-6b2575390/)
 
 ---
 
@@ -52,30 +52,6 @@ I enjoy working with backend systems, REST APIs, MySQL databases and web applica
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
-
-## 📌 Featured Project
-
-### 🏥 Hospital Management System
-
-A Laravel and MySQL based hospital management system designed to manage hospital operations through a centralized web application.
-
-#### ✨ Features
-
-- 👨‍💼 Admin Dashboard
-- 👨‍⚕️ Doctor Management
-- 🧑‍🤝‍🧑 Patient Management
-- 📅 Appointment Management
-- 🔐 Role-based Functionality
-- 🔌 REST APIs
-- 🗄️ MySQL Database
-- 📊 Dashboard & Management Modules
-
-#### 🧰 Technologies
-
-`Laravel` `PHP` `MySQL` `Bootstrap` `JavaScript` `REST API`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -98,16 +74,6 @@ A Laravel and MySQL based hospital management system designed to manage hospital
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanmamji&theme=github-dark&hide_border=true" />
 </p>
-
----
-
-## 🚀 Currently Working On
-
-- 🏥 Hospital Management System
-- 🍽️ Restaurant SaaS Application
-- 🔌 REST API Development
-- 🗄️ Database-driven applications
-- ⚙️ Backend architecture with Laravel
 
 ---
 
