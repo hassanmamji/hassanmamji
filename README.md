@@ -52,14 +52,7 @@ I enjoy working with backend systems, REST APIs, MySQL databases and web applica
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanmamji&show_icons=true&theme=dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmamji&layout=compact&theme=dark&hide_border=true" height="180"/>
-</p>
-
----
 
 ## 🔥 GitHub Activity
 
